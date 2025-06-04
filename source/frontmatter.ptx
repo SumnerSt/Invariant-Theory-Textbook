@@ -1,22 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
     <titlepage>
-      <author>
-        <personname>Steven Clontz</personname>
-        <department>Department of Mathematics and Statistics</department>
-        <institution>Univeristy of South Alabama</institution>
-      </author>
+        <author>
+          <personname>Francesca Gandini</personname>
+          <department>Department of Mathematics, Statistics, and Computer Sciences</department>
+          <institution>St. Olaf College</institution>
+        </author>
       <credit>
         <title>Contributing Authors</title>
         <author>
-          <personname>Tien Chih</personname>
-          <department>Natural Science and Mathematics</department>
-          <institution>Emory College at Oxford University</institution>
+          <personname>Sasha Arasha</personname>
+            <department>MSCS</department>
+            <institution>St. Olaf College</institution>
         </author>
         <author>
-          <personname>Oscar Levin</personname>
-            <department>Mathematical Sciences</department>
-            <institution>University of Northern Colorado</institution>
+          <personname>Marcus Cassell</personname>
+            <department>MSCS</department>
+            <institution>St. Olaf College</institution>
+        </author>
+        <author>
+          <personname>Al Ashir Intisar</personname>
+            <department>MSCS</department>
+            <institution>St. Olaf College</institution>
+        </author>
+
+        <author>
+          <personname>Gordon Novak</personname>
+          <department>MSCS</department>
+          <institution>St. Olaf College</institution>
+        </author>
+        
+        <author>
+          <personname>Sumner Strom</personname>
+          <department>MSCS</department>
+          <institution>St. Olaf College</institution>
         </author>
       </credit>
       <date>
@@ -27,13 +44,7 @@
     <preface xml:id="pr-abstract">
       <title>Abstract</title>
       <p>
-        Increasingly, the cyberinfrastructure of mathematics
-        and mathematics education is built using GitHub to
-        organize projects, courses, and their communities.
-        The goal of this book is to help readers learn the basic features
-        of GitHub available using only a web browser, and how
-        to use these features to participate in GitHub-hosted
-        mathematical projects with colleagues and/or students. 
+        This is an introductory textbook into invariants with a special focus on the InvariantRings Package in Macaulay 2.
       </p>
     </preface>
 
